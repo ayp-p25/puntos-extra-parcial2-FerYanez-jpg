@@ -1,4 +1,5 @@
 # Codifica aquí tu programa
+# Codifica aquí tu programa
 usuario = int(input("Introducir enteros: "))
 
 divisor = 0
